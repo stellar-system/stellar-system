@@ -1,3 +1,9 @@
+- 🔭   A Bug Producer  🔭
+- 🌱         CV        🌱
+- 🤔         DL        🤔
+- 💬 Working & Studing 💬
+
+
 ```
                                                      _ooOoo_
                                                     o8888888o
