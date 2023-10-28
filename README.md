@@ -1,4 +1,4 @@
-- 🔭   A Bug Producer  🔭
+- 🔭    Bug Producer   🔭
 - 🌱         CV        🌱
 - 🤔         DL        🤔
 - 🤖      robotics     🤖
