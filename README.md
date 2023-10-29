@@ -1,4 +1,4 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=stellar-system&locale=zh_Hans)
+![GitHub Streak](https://streak-stats.demolab.com?user=stellar-system&locale=zh_Hans)(https://git.io/streak-stats)
 
 - 🔭    Bug Producer   🔭
 - 🌱         CV        🌱
