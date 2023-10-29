@@ -5,14 +5,15 @@
 
 </p>
 
-<center>
+<div align="center">
 
-<span style="display: inline-block;">🔭    Bug Producer   🔭</span>
-<span style="display: inline-block;">🌱         CV        🌱</span>
-<span style="display: inline-block;">🤔         DL        🤔</span>
-<span style="display: inline-block;">🤖      robotics     🤖</span>
-<span style="display: inline-block;">💬 Working & Studing 💬</span>
-</center>
+🔭    Bug Producer   🔭
+🌱         CV        🌱
+🤔         DL        🤔
+🤖      robotics     🤖
+💬 Working & Studing 💬
+  
+</div>
 
 ```
                                                      _ooOoo_
