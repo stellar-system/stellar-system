@@ -8,9 +8,13 @@
 <div align="center">
 
 🔭    Bug Producer   🔭
+
 🌱         CV        🌱
+
 🤔         DL        🤔
+
 🤖      robotics     🤖
+
 💬 Working & Studing 💬
   
 </div>
