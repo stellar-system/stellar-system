@@ -1,11 +1,19 @@
-![GitHub Streak](https://streak-stats.demolab.com?user=stellar-system&locale=zh_Hans)(https://git.io/streak-stats)
 
-- 🔭    Bug Producer   🔭
-- 🌱         CV        🌱
-- 🤔         DL        🤔
-- 🤖      robotics     🤖
-- 💬 Working & Studing 💬
+<p align='center'>
 
+<img src="https://streak-stats.demolab.com?user=stellar-system&locale=zh_Hans&theme=dark">
+
+</p>
+
+<center>
+
+ 🔭    Bug Producer   🔭
+ 🌱         CV        🌱
+ 🤔         DL        🤔
+ 🤖      robotics     🤖
+ 💬 Working & Studing 💬
+
+</center>
 
 ```
                                                      _ooOoo_
@@ -27,13 +35,12 @@
                                   ======`-.____`-.___\_____/___.-`____.-'======
                                                      `=---='
                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-                                                **佛祖保佑 永无BUG**
 ```
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=stellar-system.stellar-system)
- <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
+
  
 <!--
+ <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 ![](https://github-readme-stats.vercel.app/api?username=stellar-system&show_icons=true)
 
 **stellar-system/stellar-system** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
