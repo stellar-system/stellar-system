@@ -1,7 +1,7 @@
 
 <p align='center'>
 
-<img src="https://streak-stats.demolab.com?user=stellar-system&locale=zh_Hans&theme=dark">
+<img src="https://streak-stats.demolab.com?user=stellar-system&theme=dark&hide_border=true&border_radius=8.6&date_format=%5BY.%5Dn.j&sideLabels=EB5454)">
 
 </p>
 
